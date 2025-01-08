@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "53889237195",
+    "project_id": "goodeats-b213a",
+    "storage_bucket": "goodeats-b213a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53889237195:android:2759cf5ed072a373ed5b4e",
+        "android_client_info": {
+          "package_name": "com.example.goodeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53889237195-pcruqkqmh8fa36gf3kefquu8qpbfsc11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodeats",
+            "certificate_hash": "760f704297a57a59070a8269b0dd5ad5acd51dd5"
+          }
+        },
+        {
+          "client_id": "53889237195-hj39sorsmbebidasrptn5gaaf4f1gtvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TOLgw1dHfBMD0d5Qt0zDOAF9jOKEas0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53889237195-hj39sorsmbebidasrptn5gaaf4f1gtvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53889237195-2dkr72uhlcabed3jq90a1gon1uv5fjjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goodeats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
